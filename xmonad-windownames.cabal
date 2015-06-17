@@ -1,6 +1,7 @@
 name:                xmonad-windownames
 version:             0.1.0.0
 synopsis:            A library to automatically put named windows into the DynamicLog.
+homepage:            https://github.com/plindbe2/xmonad-windownames
 license:             BSD3
 license-file:        LICENSE
 author:              Phil Lindberg
